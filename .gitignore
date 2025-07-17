@@ -1,0 +1,40 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Visual Studio Code
+.vscode/
+.devcontainer/
+
+# User-specific files
+*.user
+
+# .NET
+project.lock.json
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet
+packages/
+*.nupkg
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Rider
+.idea/
+
+# dotnet CLI
+*.dll
+*.pdb
+*.exe
